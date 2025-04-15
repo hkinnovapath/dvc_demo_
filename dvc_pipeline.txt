@@ -51,6 +51,7 @@ dvc repro
 
 Remote Storage --------
 dvc remote add -d <name> <url>:
+dvc remote list
 dvc status
 dvc push 
 dvc pull 
